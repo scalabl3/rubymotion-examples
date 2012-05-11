@@ -1,0 +1,32 @@
+[submodule "rubymotion-tabbar"]
+	path = rubymotion-tabbar
+	url = https://github.com/MarkVillacampa/rubymotion-tabbar.git
+  ignore = dirty
+[submodule "RestKitTest"]
+	path = RestKitTest
+	url = https://github.com/rounders/RestKitTest.git
+  ignore = dirty
+[submodule "spry"]
+	path = spry
+	url = https://github.com/mattgreen/spry.git
+  ignore = dirty
+[submodule "BubbleWrap"]
+	path = BubbleWrap
+	url = https://github.com/mattetti/BubbleWrap.git
+  ignore = dirty
+[submodule "motion-layouts"]
+	path = motion-layouts
+	url = https://github.com/malkomalko/motion-layouts.git
+  ignore = dirty
+[submodule "RubyMotion-UserSettings"]
+	path = RubyMotion-UserSettings
+	url = https://github.com/AaronH/RubyMotion-UserSettings.git
+  ignore = dirty
+[submodule "itrakt_motion"]
+	path = itrakt_motion
+	url = https://github.com/matsimitsu/itrakt_motion.git
+  ignore = dirty
+[submodule "rubymotion-cookbook"]
+	path = rubymotion-cookbook
+	url = https://github.com/railsfactory/rubymotion-cookbook
+  ignore = dirty
