@@ -30,3 +30,6 @@
 	path = rubymotion-cookbook
 	url = https://github.com/railsfactory/rubymotion-cookbook
   ignore = dirty
+[submodule "RubyMotionSamples"]
+	path = RubyMotionSamples
+	url = https://github.com/HipByte/RubyMotionSamples.git
