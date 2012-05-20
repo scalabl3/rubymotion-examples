@@ -33,3 +33,6 @@
 [submodule "RubyMotionSamples"]
 	path = RubyMotionSamples
 	url = https://github.com/HipByte/RubyMotionSamples.git
+[submodule "WordSearcher"]
+	path = WordSearcher
+	url = https://github.com/dalacv/WordSearcher.git
