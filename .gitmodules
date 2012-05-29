@@ -39,3 +39,6 @@
 [submodule "nitron-examples"]
 	path = nitron-examples
 	url = https://github.com/mattgreen/nitron-examples.git
+[submodule "birdemia"]
+	path = birdemia
+	url = https://github.com/alexeypro/birdemia.git
