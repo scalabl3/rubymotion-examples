@@ -42,3 +42,6 @@
 [submodule "birdemia"]
 	path = birdemia
 	url = https://github.com/alexeypro/birdemia.git
+[submodule "rubymotion_app_template"]
+	path = rubymotion_app_template
+	url = https://github.com/andyw8/rubymotion_app_template.git
