@@ -36,3 +36,6 @@
 [submodule "WordSearcher"]
 	path = WordSearcher
 	url = https://github.com/dalacv/WordSearcher.git
+[submodule "nitron-examples"]
+	path = nitron-examples
+	url = https://github.com/mattgreen/nitron-examples.git
