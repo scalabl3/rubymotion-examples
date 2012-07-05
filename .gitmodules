@@ -45,3 +45,15 @@
 [submodule "rubymotion_app_template"]
 	path = rubymotion_app_template
 	url = https://github.com/andyw8/rubymotion_app_template.git
+[submodule "RubyMotion-RestKit-RKObjectMapping"]
+	path = RubyMotion-RestKit-RKObjectMapping
+	url = https://github.com/pachun/RubyMotion-RestKit-RKObjectMapping.git
+[submodule "Rest-In-Motion"]
+	path = Rest-In-Motion
+	url = git://github.com/pachun/Rest-In-Motion.git
+[submodule "remote_model"]
+	path = remote_model
+	url = git://github.com/clayallsopp/remote_model.git
+[submodule "RubyMotion-UrbanAirship"]
+	path = RubyMotion-UrbanAirship
+	url = git://github.com/damassi/RubyMotion-UrbanAirship.git
