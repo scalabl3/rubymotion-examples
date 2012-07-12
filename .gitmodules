@@ -57,3 +57,6 @@
 [submodule "RubyMotion-UrbanAirship"]
 	path = RubyMotion-UrbanAirship
 	url = git://github.com/damassi/RubyMotion-UrbanAirship.git
+[submodule "cinegraphr"]
+	path = cinegraphr
+	url = git://github.com/epicagency/cinegraphr.git
